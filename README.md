@@ -1,0 +1,1 @@
+# mosip-license-compliance
